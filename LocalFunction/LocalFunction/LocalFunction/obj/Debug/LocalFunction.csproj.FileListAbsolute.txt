@@ -1,0 +1,7 @@
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\bin\Debug\LocalFunction.exe.config
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\bin\Debug\LocalFunction.exe
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\bin\Debug\LocalFunction.pdb
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\obj\Debug\LocalFunction.csproj.CoreCompileInputs.cache
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\obj\Debug\LocalFunction.exe
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\obj\Debug\LocalFunction.pdb
+E:\C#-7\LocalFunction\LocalFunction\LocalFunction\obj\Debug\LocalFunction.csprojResolveAssemblyReference.cache

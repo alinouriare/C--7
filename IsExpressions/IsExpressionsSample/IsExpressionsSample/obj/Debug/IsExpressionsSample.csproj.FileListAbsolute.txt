@@ -1,0 +1,7 @@
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\bin\Debug\IsExpressionsSample.exe.config
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\bin\Debug\IsExpressionsSample.exe
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\bin\Debug\IsExpressionsSample.pdb
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\obj\Debug\IsExpressionsSample.csprojResolveAssemblyReference.cache
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\obj\Debug\IsExpressionsSample.csproj.CoreCompileInputs.cache
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\obj\Debug\IsExpressionsSample.exe
+E:\C#-7\IsExpressions\IsExpressionsSample\IsExpressionsSample\obj\Debug\IsExpressionsSample.pdb

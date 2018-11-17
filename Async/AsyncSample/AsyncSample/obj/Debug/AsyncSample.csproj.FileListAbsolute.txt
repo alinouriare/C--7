@@ -1,0 +1,15 @@
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\AsyncSample.exe.config
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\AsyncSample.exe
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\AsyncSample.pdb
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.csprojResolveAssemblyReference.cache
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.Form1.resources
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.Properties.Resources.resources
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.csproj.GenerateResource.cache
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.csproj.CoreCompileInputs.cache
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.exe
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.pdb
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\C#-7\Async\AsyncSample\AsyncSample\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\C#-7\Async\AsyncSample\AsyncSample\obj\Debug\AsyncSample.csproj.CopyComplete

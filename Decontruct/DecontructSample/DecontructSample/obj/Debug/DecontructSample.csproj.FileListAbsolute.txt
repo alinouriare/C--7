@@ -1,0 +1,10 @@
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\bin\Debug\DecontructSample.exe.config
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\bin\Debug\DecontructSample.exe
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\bin\Debug\DecontructSample.pdb
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\bin\Debug\System.ValueTuple.dll
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\bin\Debug\System.ValueTuple.xml
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\obj\Debug\DecontructSample.csprojResolveAssemblyReference.cache
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\obj\Debug\DecontructSample.csproj.CoreCompileInputs.cache
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\obj\Debug\DecontructSample.csproj.CopyComplete
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\obj\Debug\DecontructSample.exe
+E:\C#-7\Decontruct\DecontructSample\DecontructSample\obj\Debug\DecontructSample.pdb

@@ -1,0 +1,7 @@
+E:\C#-7\Tuple\TupleExample\TupleExample\bin\Debug\TupleExample.exe.config
+E:\C#-7\Tuple\TupleExample\TupleExample\bin\Debug\TupleExample.exe
+E:\C#-7\Tuple\TupleExample\TupleExample\bin\Debug\TupleExample.pdb
+E:\C#-7\Tuple\TupleExample\TupleExample\obj\Debug\TupleExample.csprojResolveAssemblyReference.cache
+E:\C#-7\Tuple\TupleExample\TupleExample\obj\Debug\TupleExample.csproj.CoreCompileInputs.cache
+E:\C#-7\Tuple\TupleExample\TupleExample\obj\Debug\TupleExample.exe
+E:\C#-7\Tuple\TupleExample\TupleExample\obj\Debug\TupleExample.pdb
